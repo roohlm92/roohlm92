@@ -56,5 +56,5 @@
 
 <div align="center">
 
-<a href="https://www.rodrigo-dev.rmtechsotions.com" target="_blank"><img src="https://img.shields.io/badge/Portifolio-red?style=for-the-badge" target="_blank" alt="Portifolio"></a>
+<a href="https://rodrigo-dev.rmtechsotions.com" target="_blank"><img src="https://img.shields.io/badge/Portifolio-red?style=for-the-badge" target="_blank" alt="Portifolio"></a>
 </div>
