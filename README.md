@@ -1,6 +1,6 @@
 <!--Title -->
 <h1 align="center">
-  # Olá 👋, eu sou o Rodrigo Mendes. 🧑‍💻
+  # Olá! 👋 Eu sou o Rodrigo Mendes. 🧑‍💻
 </h1>
 
 <!-- Background -->
