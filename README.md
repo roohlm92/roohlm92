@@ -1,60 +1,100 @@
-<!--Title -->
-<h1 align="center">
-  # Olá! 👋 Eu sou o Rodrigo Mendes. 🧑‍💻
-</h1>
+<h1 align="center">Olá! 👋 Eu sou o Rodrigo Mendes</h1>
 
-<!-- Background -->
-<div align="center">
-<img height="300em" src="img/rodrigo.png">
-</div>
-<!-- Introduction -->
+<p align="center">
+  Engenheiro da Computação em formação • Desenvolvedor de Software iniciante, curioso e em constante evolução
+</p>
 
-## **Visão geral 👉**
+<p align="center">
+  <a href="http://rodrigo-dev.rmtechsolutions.com/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/rodrigolmendes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:roohlm92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://instagram.com/rodrigo.mendes.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/channel/UCtHbR--rx0U-ofQkLR9yu2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
 
-<p>Olá, eu sou Rodrigo Mendes, estou cursando engenharia da computação, e sou um desenvolvedor de software iniciante.</p>
-
-<div align="center">
-  <a href="https://github.com/roohlm92">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=roohlm92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
-</div>
-
-<br><br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b><b>"Sou apaixonado por tecnologias, e gosto de aprender cada dia mais, com aqueles que juntos comigo, querem contruir uma carreira de sucesso."</b></em>
-<br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roohlm92&color=brightgreen" alt="visualizações de perfil" />
+</p>
 
 <div align="center">
-  <a href="https://github.com/roohlm92">
-  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roohlm92&layout=compact&langs_count=7&theme=chartreuse-dark"/></a>
+  <img src="img/rodrigo.png" alt="Foto de perfil Rodrigo" height="260" />
 </div>
-<br><br>
 
-## ** Habilidades 🚀**
+---
+
+### Sobre mim
+
+- 💡 Gosto de transformar ideias em soluções simples e úteis
+- 📚 Sempre aprendendo algo novo em desenvolvimento de software
+- 🤝 Aberto a colaborar em projetos e aprender com a comunidade
+- 🎯 Objetivo: evoluir como dev fullstack, construindo produtos de impacto
+
+---
+
+### Stack e Ferramentas
 
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="rooh-Js" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="rooh-HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="rooh-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="rooh-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="rooh-PHP" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="rooh-Node" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="rooh-mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="rooh-java" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="JavaScript" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="HTML5" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="Python" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="PHP" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img align="center" alt="Node.js" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="MySQL" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Java" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Git" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="Linux" height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </div>
 
-## **Meus contatos 👇**
+---
+
+### O que você encontra por aqui
+
+- Pequenos projetos e experimentos para praticar conceitos
+- Estudos de base: lógica, algoritmos, estrutura de dados e orientação a objetos
+- Explorações com back-end (Node.js, PHP, Python) e banco de dados (MySQL)
+
+> "Sou apaixonado por tecnologias e gosto de aprender cada dia mais, com aqueles que, junto comigo, querem construir uma carreira de sucesso."
+
+---
+
+### Métricas e estatísticas
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCtHbR--rx0U-ofQkLR9yu2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rodrigo.mendes.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:roohlm92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rodrigolmendes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://github.com/roohlm92">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=roohlm92&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/roohlm92">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roohlm92&layout=compact&langs_count=8&theme=chartreuse-dark" alt="Linguagens mais usadas" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img height="160" src="https://streak-stats.demolab.com?user=roohlm92&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
 
-<h4 align="center">Obrigado pela visita! 😇</h4>
+---
 
-<div align="center">
+### Como posso ajudar
 
-<a href="http://rodrigo-dev.rmtechsolutions.com/" target="_blank"><img src="https://img.shields.io/badge/Portifolio-red?style=for-the-badge" target="_blank" alt="Portifolio"></a>
-</div>
+- Desenvolvimento de pequenas APIs e serviços
+- Integrações simples com banco de dados
+- Páginas estáticas e landing pages
+- Refatoração e melhorias de legibilidade
+
+Se tiver uma ideia legal, me chama! 😊
+
+---
+
+### Contatos
+
+<p align="center">
+  <a href="http://rodrigo-dev.rmtechsolutions.com/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-FF3B30?style=for-the-badge" alt="Portfólio" /></a>
+  <a href="https://www.linkedin.com/in/rodrigolmendes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:roohlm92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://instagram.com/rodrigo.mendes.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/channel/UCtHbR--rx0U-ofQkLR9yu2w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+</p>
+
+<p align="center">
+  Obrigado pela visita! 😇
+</p>
